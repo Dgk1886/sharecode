@@ -1,0 +1,18 @@
+node'da 2 çeþit environment var: 1 Repl 2:clý
+
+Repl'ý açmak için cmd'e node yazmak yeterli
+
+proje çalýþtýrmak için projenin bulunduðu klasörü cmd üzerine sürükleyip býraktýðýmda direk dosya konumuna eriþebilirim
+
+Daha sonra proje klasörüne girdiðime göre node projesini açmak için node (çalýþtýrýlacak javascript dosyasýnýn ismi)
+yazarak projeyi çalýþtýrabilirim
+
+NOT: DOSYA ÝSMÝ BÝTÝÞÝK OLMALI
+Not: Cmd'yi kullanmak yerine terminal'i vscode'dan da açabilirsin
+Not: cmd'de geri dönmek için cd.. yazmalýsýn
+Not: cmd'de daha önce yazdýðýn bir þeyi yazdýrmak için yukarý ok tuþuna basarak daha önce yazdýklarýný geri kopyalayabilirsin
+
+sürücü deðiþtirmek için sürücü harfini küçük yazýp : koy ve enter'a bas
+
+
+npmjs sitesinde ihtiyacýn olan çözümleri bulabilirsin
